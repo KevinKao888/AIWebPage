@@ -1,2 +1,2 @@
 # AIWeb-Page
-Page Show Repository for AI Specification Driven Website Development
+Page Show Repository for AI Specification Driven Website Development.
